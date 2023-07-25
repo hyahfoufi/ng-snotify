@@ -31,8 +31,7 @@
     "docs:deploy": "bash ./update-docs.sh",
     "prettier:check": "prettier --check !.angular/** ./**/*.{ts,js,scss,html,json}",
     "prettier:write": "prettier --write !.angular/** ./**/*.{ts,js,scss,html,json}",
-    "prepare": "npm run lib:build:prod && husky install",
-    "postinstall": "webdriver-manager update --standalone false --gecko false"
+    "prepare": "npm run lib:build:prod && husky install"
   },
   "homepage": "https://megamanhxh.github.io/ng-alt-snotify",
   "repository": {
