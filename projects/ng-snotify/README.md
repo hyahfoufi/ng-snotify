@@ -1,8 +1,8 @@
-# ng-alt-snotify
+# ng-snotify
 
-[![Build Status](https://dl.circleci.com/status-badge/img/gh/megamanhxh/ng-alt-snotify/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/megamanhxh/ng-alt-snotify/tree/master)
-[![NPM Version](https://img.shields.io/npm/v/ng-alt-snotify.svg)](https://www.npmjs.com/package/ng-alt-snotify)
-[![NPM Downloads](https://img.shields.io/npm/dt/ng-alt-snotify.svg)](https://www.npmjs.com/package/ng-alt-snotify)
+[![Build Status](https://dl.circleci.com/status-badge/img/gh/megamanhxh/ng-snotify/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/megamanhxh/ng-snotify/tree/master)
+[![NPM Version](https://img.shields.io/npm/v/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
+[![NPM Downloads](https://img.shields.io/npm/dt/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
 
 # Disclaimer
 _This is a fork version of [ng-snotify](https://github.com/artemsky/ng-snotify) by [Artem Kuznetsov](https://github.com/artemsky) just to
@@ -10,7 +10,7 @@ allow to bump the version up to support the latest version of angular until the 
 version._
 
 ## Example
-https://megamanhxh.github.io/ng-alt-snotify/
+https://megamanhxh.github.io/ng-snotify/
 
 
 ## Features
@@ -31,17 +31,17 @@ https://megamanhxh.github.io/ng-alt-snotify/
 ## Installation
 
 ###### NPM 8
-`npm install ng-alt-snotify`
+`npm install ng-snotify`
 
 ###### yarn
-`yarn add ng-alt-snotify`
+`yarn add ng-snotify`
 
 ## Documentation and Examples
 
-Documentation - [here](https://megamanhxh.github.io/ng-alt-snotify/documentation)  
-Example application source - [here](https://github.com/megamanhxh/ng-alt-snotify/tree/master/src)  
-Auto-Documentation (Compodoc) - [here](https://megamanhxh.github.io/ng-alt-snotify/compodoc/)  
-Change Log - [here](https://github.com/megamanhxh/ng-alt-snotify/blob/master/CHANGELOG.md)
+Documentation - [here](https://megamanhxh.github.io/ng-snotify/documentation)  
+Example application source - [here](https://github.com/megamanhxh/ng-snotify/tree/master/src)  
+Auto-Documentation (Compodoc) - [here](https://megamanhxh.github.io/ng-snotify/compodoc/)  
+Change Log - [here](https://github.com/megamanhxh/ng-snotify/blob/master/CHANGELOG.md)
 
 ## License
 

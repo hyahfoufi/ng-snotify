@@ -5,7 +5,7 @@
     {
       "files": ["*.ts"],
       "parserOptions": {
-        "project": ["projects/ng-alt-snotify/tsconfig.lib.json", "projects/ng-alt-snotify/tsconfig.spec.json"],
+        "project": ["projects/ng-snotify/tsconfig.lib.json", "projects/ng-snotify/tsconfig.spec.json"],
         "createDefaultProgram": true
       },
       "rules": {

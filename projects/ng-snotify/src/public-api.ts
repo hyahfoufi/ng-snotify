@@ -1,5 +1,5 @@
 /*
- * Public API Surface of ng-alt-snotify
+ * Public API Surface of ng-snotify
  */
 
 export * from './lib/components';

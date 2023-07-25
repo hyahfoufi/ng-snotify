@@ -13,9 +13,9 @@
     "noFallthroughCasesInSwitch": false,
     "sourceMap": true,
     "paths": {
-      "ng-alt-snotify": [
-        "dist/ng-alt-snotify/ng-alt-snotify",
-        "dist/ng-alt-snotify"
+      "ng-snotify": [
+        "dist/ng-snotify/ng-snotify",
+        "dist/ng-snotify"
       ]
     },
     "declaration": false,

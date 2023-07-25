@@ -10,4 +10,4 @@ cd ../demo
 git init
 git add -A
 git commit -m "update demo"
-git push -f git@github.com:megamanhxh/ng-alt-snotify.git master:gh-pages
+git push -f git@github.com:megamanhxh/ng-snotify.git master:gh-pages

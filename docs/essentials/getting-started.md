@@ -1,11 +1,11 @@
-# ng-alt-snotify
+# ng-snotify
 
-[![Build Status](https://circleci.com/gh/megamanhxh/ng-alt-snotify/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/megamanhxh/ng-alt-snotify)
-[![NPM Version](https://img.shields.io/npm/v/ng-alt-snotify.svg)](https://www.npmjs.com/package/ng-alt-snotify)
-[![NPM Downloads](https://img.shields.io/npm/dt/ng-alt-snotify.svg)](https://www.npmjs.com/package/ng-alt-snotify)
+[![Build Status](https://circleci.com/gh/megamanhxh/ng-snotify/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/megamanhxh/ng-snotify)
+[![NPM Version](https://img.shields.io/npm/v/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
+[![NPM Downloads](https://img.shields.io/npm/dt/ng-snotify.svg)](https://www.npmjs.com/package/ng-snotify)
 
 ## Example
-https://artemsky.github.io/ng-alt-snotify/
+https://artemsky.github.io/ng-snotify/
 
 
 ## Features
@@ -26,17 +26,17 @@ https://artemsky.github.io/ng-alt-snotify/
 ## Installation
 
 ###### NPM 8
-`npm install ng-alt-snotify`
+`npm install ng-snotify`
 
 ###### yarn
-`yarn add ng-alt-snotify`
+`yarn add ng-snotify`
 
 ## Documentation and Examples
 
-Documentation - [here](https://megamanhxh.github.io/ng-alt-snotify/documentation)  
-Example application source - [here](https://github.com/megamanhxh/ng-alt-snotify/tree/master/example/app)  
-Auto-Documentation (Compodoc) - [here](https://megamanhxh.github.io/ng-alt-snotify/compodoc/)  
-Change Log - [here](https://github.com/megamanhxh/ng-alt-snotify/blob/master/CHANGELOG.md)
+Documentation - [here](https://megamanhxh.github.io/ng-snotify/documentation)  
+Example application source - [here](https://github.com/megamanhxh/ng-snotify/tree/master/example/app)  
+Auto-Documentation (Compodoc) - [here](https://megamanhxh.github.io/ng-snotify/compodoc/)  
+Change Log - [here](https://github.com/megamanhxh/ng-snotify/blob/master/CHANGELOG.md)
 
 ## License
 

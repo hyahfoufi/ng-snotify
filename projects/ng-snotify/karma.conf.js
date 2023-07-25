@@ -27,7 +27,7 @@ module.exports = function (config) {
       suppressAll: true // removes the duplicated traces
     },
     coverageReporter: {
-      dir: require('path').join(__dirname, './coverage/ng-alt-snotify-example'),
+      dir: require('path').join(__dirname, './coverage/ng-snotify-example'),
       subdir: '.',
       reporters: [{ type: 'html' }, { type: 'text-summary' }]
     },

@@ -1,11 +1,11 @@
 {
-  "name": "ng-alt-snotify",
+  "name": "@hyahfoufi/ng-snotify",
   "description": "Angular 2+ alternative notifications center",
-  "version": "14.2.12",
-  "homepage": "https://megamanhxh.github.io/ng-alt-snotify",
+  "version": "15.0.6",
+  "homepage": "https://github.com/hyahfoufi/ng-snotify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/megamanhxh/ng-alt-snotify"
+    "url": "https://github.com/hyahfoufi/ng-snotify"
   },
   "author": {
     "name": "artemsky",
@@ -93,7 +93,7 @@
     "ng12-snotify",
     "ng13-snotify",
     "ng14-snotify",
-    "ng-alt-snotify",
+    "ng-snotify",
     "ng2-alt-snotify",
     "ng4-alt-snotify",
     "ng5-alt-snotify",
@@ -122,12 +122,9 @@
     "toaster"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/megamanhxh/ng-alt-snotify/issues"
-  },
   "peerDependencies": {
-    "@angular/common": "^14.2.12",
-    "@angular/core": "^14.2.12"
+    "@angular/common": "~15.2.9",
+    "@angular/core": "~15.2.9"
   },
   "dependencies": {
     "tslib": "^2.3.0"

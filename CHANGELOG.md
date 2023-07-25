@@ -7,7 +7,7 @@
 ### v13.0.1
 
 ### v13.0.0
-- initial fork to ng-alt-snotify
+- initial fork to ng-snotify
 - update to Angular ^13.0.0
 - bump package name to match angular version
 

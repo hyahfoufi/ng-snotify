@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
-import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-alt-snotify';
+import { SnotifyModule, SnotifyService, ToastDefaults } from 'ng-snotify';
 import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({

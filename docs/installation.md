@@ -1,9 +1,9 @@
 # Installation
 
 ###### NPM 8
-`npm install ng-alt-snotify`
+`npm install ng-snotify`
 ###### yarn
-`yarn add ng-alt-snotify`
+`yarn add ng-snotify`
 
 
 #### Import Module

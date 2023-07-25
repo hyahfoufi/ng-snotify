@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ng-alt-snotify-example": {
+    "ng-snotify-example": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -20,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ng-alt-snotify-example",
+            "outputPath": "dist/ng-snotify-example",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -73,10 +73,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "ng-alt-snotify-example:build:production"
+              "browserTarget": "ng-snotify-example:build:production"
             },
             "development": {
-              "browserTarget": "ng-alt-snotify-example:build:development"
+              "browserTarget": "ng-snotify-example:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -84,7 +84,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ng-alt-snotify-example:build"
+            "browserTarget": "ng-snotify-example:build"
           }
         },
         "test": {
@@ -124,23 +124,23 @@
         }
       }
     },
-    "ng-alt-snotify": {
+    "ng-snotify": {
       "projectType": "library",
-      "root": "projects/ng-alt-snotify",
-      "sourceRoot": "projects/ng-alt-snotify/src",
+      "root": "projects/ng-snotify",
+      "sourceRoot": "projects/ng-snotify/src",
       "prefix": "lib",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:ng-packagr",
           "options": {
-            "project": "projects/ng-alt-snotify/ng-package.json"
+            "project": "projects/ng-snotify/ng-package.json"
           },
           "configurations": {
             "production": {
-              "tsConfig": "projects/ng-alt-snotify/tsconfig.lib.prod.json"
+              "tsConfig": "projects/ng-snotify/tsconfig.lib.prod.json"
             },
             "development": {
-              "tsConfig": "projects/ng-alt-snotify/tsconfig.lib.json"
+              "tsConfig": "projects/ng-snotify/tsconfig.lib.json"
             }
           },
           "defaultConfiguration": "production"
@@ -148,9 +148,9 @@
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
-            "main": "projects/ng-alt-snotify/src/test.ts",
-            "tsConfig": "projects/ng-alt-snotify/tsconfig.spec.json",
-            "karmaConfig": "projects/ng-alt-snotify/karma.conf.js"
+            "main": "projects/ng-snotify/src/test.ts",
+            "tsConfig": "projects/ng-snotify/tsconfig.spec.json",
+            "karmaConfig": "projects/ng-snotify/karma.conf.js"
           },
           "configurations": {
             "ci": {
@@ -164,15 +164,15 @@
           "builder": "@angular-eslint/builder:lint",
           "options": {
             "lintFilePatterns": [
-              "projects/ng-alt-snotify/**/*.ts",
-              "projects/ng-alt-snotify/**/*.html"
+              "projects/ng-snotify/**/*.ts",
+              "projects/ng-snotify/**/*.html"
             ]
           }
         }
       }
     }
   },
-  "defaultProject": "ng-alt-snotify-example",
+  "defaultProject": "ng-snotify-example",
   "cli": {
     "analytics": "6e145ab7-8a7f-4a71-87f4-0113a200f190"
   },

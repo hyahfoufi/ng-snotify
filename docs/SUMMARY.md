@@ -1,4 +1,4 @@
-# ng-alt-snotify
+# ng-snotify
 
 ## Overview
 * [Installation](installation.md)

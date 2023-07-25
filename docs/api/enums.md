@@ -1,6 +1,6 @@
 # Enumerators
 
-> Each enum can be imported from `ng-alt-snotify` 
+> Each enum can be imported from `ng-snotify` 
 
 
 ### SnotifyPosition
@@ -29,7 +29,7 @@
   
 ###### Example
   ```typescript
-  import {SnotifyPosition, SnotifyStyle} from 'ng-alt-snotify';
+  import {SnotifyPosition, SnotifyStyle} from 'ng-snotify';
 
   snotifyService.create({
     title: 'Example title',
